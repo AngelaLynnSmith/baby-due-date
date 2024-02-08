@@ -47,7 +47,7 @@ h4 {
 }
 
 h5 {
-  color: #ae28f7;
+  color: black;
   text-align: center;
   font-style: italic;
   font-size: 20px;
@@ -58,8 +58,13 @@ h5 {
 
 p {
       font-size: 14px;
-    
+   
 }
+
+.zoom {
+    color: black;
+}
+
 .container {
     max-width: 600px;
 }
